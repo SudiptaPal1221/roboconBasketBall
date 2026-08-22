@@ -1,0 +1,4 @@
+train: ../basketball_dataset/train/images
+val: ../basketball_dataset/valid/images
+nc: 4
+names: ['board', 'rim', 'net', 'shooting box']
