@@ -27,7 +27,7 @@ The scaling factor is computed during an initial calibration step, where the rim
 
 
 
-🧪 How to Run bash Copy Edit git clone https://github.com/veeru413/basketball-rim-detection.git cd basketball-rim-detection
+🧪 How to Run bash Copy Edit git clone https://github.com/SudiptaPal1221/roboconBasketBall.git cd basketball-rim-detection
 Install requirements
 pip install -r requirements.txt
 
